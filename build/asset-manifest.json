@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hedgehog-birthday/static/css/main.653c2585.css",
+    "main.js": "/hedgehog-birthday/static/js/main.dc4a0667.js",
+    "static/js/453.6ff408b9.chunk.js": "/hedgehog-birthday/static/js/453.6ff408b9.chunk.js",
+    "index.html": "/hedgehog-birthday/index.html",
+    "main.653c2585.css.map": "/hedgehog-birthday/static/css/main.653c2585.css.map",
+    "main.dc4a0667.js.map": "/hedgehog-birthday/static/js/main.dc4a0667.js.map",
+    "453.6ff408b9.chunk.js.map": "/hedgehog-birthday/static/js/453.6ff408b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653c2585.css",
+    "static/js/main.dc4a0667.js"
+  ]
+}
